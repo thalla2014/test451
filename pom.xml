@@ -5,7 +5,7 @@
   <artifactId>egitdemo</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>egitdemo</name>
+  <name>egitdemo.</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
